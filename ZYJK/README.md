@@ -12,10 +12,10 @@
 
 #已修复多仓链接，修复失效接口！多仓详细地址请关注公众号〡影视百晓生免费获取！
 
-> 多仓接口地址：hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DC.json
+> 多仓接口地址：https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZYJK/DC.json
 
-> 多源接口地址：hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DY.json
+> 多源接口地址：https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZYJK/DY.json
 
-> 维护接口地址：hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DY0.json
+> 维护接口地址：https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZYJK/DY0.json
 
-> 本地接口地址：hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/BD.json
+> 本地接口地址：https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZYJK/BD.json
