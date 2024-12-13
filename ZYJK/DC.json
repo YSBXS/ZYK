@@ -1,0 +1,19 @@
+//本多仓由公众号：影视百晓生，免费提供，请勿商用，如有侵权，联系删除！！！
+
+{
+
+"storeHouse": [
+
+{"sourceName":"百晓生┃维护接口","sourceUrl":"hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DY0.json"},
+
+{"sourceName":"百晓生┃在线一仓","sourceUrl":"hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DY1.json"},
+
+{"sourceName":"百晓生┃在线二仓","sourceUrl":"hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DY2.json"},
+
+{"sourceName":"百晓生┃在线三仓","sourceUrl":"hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/DY3.json"},
+
+{"sourceName":"百晓生┃本地接口","sourceUrl":"hhttps://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/ZYK/main/ZXJK/BD.json"}
+
+]
+
+}
